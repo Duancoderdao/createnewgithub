@@ -8,5 +8,9 @@ body{
     width: 500px;
     text-align: center;
     margin-top: 20px;
-
+     
+}
+.color-push{
+    font: size 1.5rem;
+    color: blue;
 }
