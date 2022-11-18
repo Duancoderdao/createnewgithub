@@ -14,3 +14,20 @@ body{
     font: size 1.5rem;
     color: blue;
 }
+.btn {
+    width: 60px;
+    height: 60px;
+    border-radius:50%;
+    position: relative;
+    left:50%;
+    top: 20px;
+  color: rgb(20, 14, 14);
+    
+}
+.btn:hover{
+    background-color:blue;
+}
+
+.color.active {
+    color: blueviolet;
+}
